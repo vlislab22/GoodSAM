@@ -1,2 +1,2 @@
-# 360SFUDA
-Project Page: https://vlislab22.github.io/360SFUDA/
+# GoodSAM
+Project Page: https://vlislab22.github.io/GoodSAM/
